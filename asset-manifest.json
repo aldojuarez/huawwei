@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aldojuarez/huawwei/static/css/main.073c9b0a.css",
-    "main.js": "/aldojuarez/huawwei/static/js/main.3d3a408c.js",
-    "static/js/787.2d145f8e.chunk.js": "/aldojuarez/huawwei/static/js/787.2d145f8e.chunk.js",
-    "static/media/logo.svg": "/aldojuarez/huawwei/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/aldojuarez/huawwei/index.html",
-    "main.073c9b0a.css.map": "/aldojuarez/huawwei/static/css/main.073c9b0a.css.map",
-    "main.3d3a408c.js.map": "/aldojuarez/huawwei/static/js/main.3d3a408c.js.map",
-    "787.2d145f8e.chunk.js.map": "/aldojuarez/huawwei/static/js/787.2d145f8e.chunk.js.map"
+    "main.css": "/huawwei/static/css/main.073c9b0a.css",
+    "main.js": "/huawwei/static/js/main.3b97f731.js",
+    "static/js/787.2d145f8e.chunk.js": "/huawwei/static/js/787.2d145f8e.chunk.js",
+    "static/media/logo.svg": "/huawwei/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/huawwei/index.html",
+    "main.073c9b0a.css.map": "/huawwei/static/css/main.073c9b0a.css.map",
+    "main.3b97f731.js.map": "/huawwei/static/js/main.3b97f731.js.map",
+    "787.2d145f8e.chunk.js.map": "/huawwei/static/js/787.2d145f8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3d3a408c.js"
+    "static/js/main.3b97f731.js"
   ]
 }
