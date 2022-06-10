@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/huawwei/static/css/main.073c9b0a.css",
-    "main.js": "/huawwei/static/js/main.ad628737.js",
+    "main.js": "/huawwei/static/js/main.65c93cb8.js",
     "index.html": "/huawwei/index.html",
     "main.073c9b0a.css.map": "/huawwei/static/css/main.073c9b0a.css.map",
-    "main.ad628737.js.map": "/huawwei/static/js/main.ad628737.js.map"
+    "main.65c93cb8.js.map": "/huawwei/static/js/main.65c93cb8.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ad628737.js"
+    "static/js/main.65c93cb8.js"
   ]
 }
