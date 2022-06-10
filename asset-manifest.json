@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/huawwei/static/css/main.073c9b0a.css",
-    "main.js": "/huawwei/static/js/main.3568e76d.js",
+    "main.js": "/huawwei/static/js/main.80523a18.js",
     "static/js/787.2d145f8e.chunk.js": "/huawwei/static/js/787.2d145f8e.chunk.js",
     "static/media/logo.svg": "/huawwei/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/huawwei/index.html",
     "main.073c9b0a.css.map": "/huawwei/static/css/main.073c9b0a.css.map",
-    "main.3568e76d.js.map": "/huawwei/static/js/main.3568e76d.js.map",
+    "main.80523a18.js.map": "/huawwei/static/js/main.80523a18.js.map",
     "787.2d145f8e.chunk.js.map": "/huawwei/static/js/787.2d145f8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3568e76d.js"
+    "static/js/main.80523a18.js"
   ]
 }
